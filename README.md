@@ -81,8 +81,8 @@ Create the Category and Subcategory DataFrames
 - Import the contacts.xlsx file into a DataFrame.
 - Iterate through the DataFrame, converting each row to a dictionary.
 - Iterate through each dictionary, doing the following:
--- Extract the dictionary values from the keys by using a Python list comprehension.
--- Add the values for each row to a new list.
+- - Extract the dictionary values from the keys by using a Python list comprehension.
+- - Add the values for each row to a new list.
 - Create a new DataFrame that contains the extracted data.
 - Split each "name" column value into a first and last name, and place each in a new column.
 - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
@@ -93,7 +93,7 @@ Create the Category and Subcategory DataFrames
 - Convert the "contact_id" column to the integer type.
 - Split each "name" column value into a first and a last name, and place each in a new column.
 - Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
-- 
+  
 4. Check that your final DataFrame resembles the one in the following image:
   
 <img width="415" alt="contact_DataFrame_final" src="https://github.com/AniGEA/Crowdfunding_ETL/assets/158235055/809ac322-5ff6-4c96-b271-4cd7ce04ce49">
