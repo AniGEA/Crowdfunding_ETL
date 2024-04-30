@@ -6,17 +6,17 @@ For the ETL mini project, we worked as a group to build an ETL pipeline using Py
 
 CSV files can be found in CSV folder
 
-campaign.csv
-category.csv
-subcategory.csv
-contacts.csv
+- campaign.csv
+- category.csv
+- subcategory.csv
+- contacts.csv
 
 ## Source Data
 
 Source data can be found in the Resources folder
 
-contacts.xlsx
-crowdfunding.xlsx
+- contacts.xlsx
+- crowdfunding.xlsx
 
 
 ## ERD (Entity Relationship Diagram)
