@@ -27,7 +27,7 @@ An Entity Relationship Diagram (ERD) of the 4 tables was generated using QuickDB
 
 ## Instructions
 
-The instructions for this mini project are divided into the following subsections:
+The instructions for this mini-project are divided into the following subsections:
 Create the Category and Subcategory DataFrames
 Create the Campaign DataFrame
 Create the Contacts DataFrame
