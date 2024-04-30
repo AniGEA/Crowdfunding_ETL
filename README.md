@@ -4,7 +4,7 @@ For the ETL mini project, we worked as a group to build an ETL pipeline using Py
 
 ## CSV Tables
 
-CSV files can be found in CSV folder
+Created CSV files can be found in CSV folder
 
 - campaign.csv
 - category.csv
