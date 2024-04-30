@@ -2,6 +2,15 @@
 
 For the ETL mini project, we worked as a group to build an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions for data extraction and transformation. We created four CSV files and used them to generate an ERD and table schema. Finally, we uploaded the CSV data into a Postgres database. 
 
+## CSV Tables
+
+CSV files can be found in CSV folder
+
+campaign.csv
+category.csv
+subcategory.csv
+contacts.csv
+
 ## Source Data
 
 Source data can be found in the Resources folder
@@ -9,9 +18,14 @@ Source data can be found in the Resources folder
 contacts.xlsx
 crowdfunding.xlsx
 
+
+## ERD (Entity Relationship Diagram)
+
+An Entity Relationship Diagram (ERD) of the 4 tables was generated using QuickDBD https://www.quickdatabasediagrams.com/ to illustrate the database structure visually.
+
 ![QuickDBD-export](https://github.com/AniGEA/Crowdfunding_ETL/assets/158235055/783d49af-89c4-4701-a53a-2dfc37405c8e)
 
-##Instructions
+## Instructions
 
 The instructions for this mini project are divided into the following subsections:
 Create the Category and Subcategory DataFrames
