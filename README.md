@@ -2,7 +2,7 @@
 
 For the ETL mini project, we worked as a group to build an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions for data extraction and transformation. We created four CSV files and used them to generate an ERD and table schema. Finally, we uploaded the CSV data into a Postgres database. 
 
-##Source Data
+## Source Data
 
 Source data can be found in the Resources folder
 
